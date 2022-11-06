@@ -9,45 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* B.S. in Lanzhou, Lanzhou University of Technology, 2015-2020
-* M.S. in Shenzhen, Shenzhen University, 2020-Now
+* 2015.09 — 2020.06，兰州理工大学，学士
+* 2020.09 — 2023.06，深圳大学，硕士
 
-Skills
+工作经历
+======
+* 2021.11 — 2022.01，深圳量城科技，规划咨询与数据分析实习生
+
+软件技能
 ======
 * ArcGIS(pro)
 * SPSS
-  * Regression analysis
-  * Correlation test
-  * Standardization
+  * 回归分析
+  * 相关性检验
+  * 统计图、表绘制
 * Python
-
-Work experience
-======
-* Summer 2021: Assistant Data Analyst
-  * Liangcheng Technology
-  * Duties included: Geographic data analysis
-  * Supervisor: Boss Yuan
-  
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  * 深度学习
+  * 机器学习
