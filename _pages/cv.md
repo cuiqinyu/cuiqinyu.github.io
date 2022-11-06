@@ -22,12 +22,10 @@ redirect_from:
 ======
 * ArcGIS(pro)
 * SPSS
-  * 回归分析
-  * 相关性检验
-  * 统计图、表绘制
 * Python
-  * 深度学习
-  * 机器学习
+* Citespace
+* Adobe
+* Word, Excel ,and Powerpoint
 
 荣誉奖项
 ======
