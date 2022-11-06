@@ -2,7 +2,7 @@
 title: "Retail Commercial Space Clustering Based on Post-carbon Era Context: A Case Study of Shanghai"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Keywords: Business District Hierarchy, Agglomeration Effect, Spatial Variability, Multi-scale Geographically Weighted Regression Model, Machine Learning, Big Data Analysis, SDG 8, SDG 12'
+excerpt: 'Keywords: Business district hierarchy; Agglomeration effect; Spatial variability; Multi-scale geographically weighted regression model; Machine learning; Big data analysis; SDG 8; SDG 12'
 date: 2022-04-15
 venue: 'Proceedings of the 27th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA) 2022'
 paperurl: 'https://doi.org/10.52842/conf.caadria.2022.1.515'
