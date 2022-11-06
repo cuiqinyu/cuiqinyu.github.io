@@ -1,6 +1,6 @@
 ---
 title: "2022 CAADRIA Workshop"
-excerpt: "THE SHIFT IN PERCEPTION OF URBAN-SCAPE IN THE POST PANDEMIC SOCIETY <br/><img src='/images/CQY.jpg'>"
+excerpt: "THE SHIFT IN PERCEPTION OF URBAN-SCAPE IN THE POST PANDEMIC SOCIETY <br/><img src='/images/CAADRIA2022.jpg'>"
 collection: Workshop
 ---
 
