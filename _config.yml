@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "崔秦毓"
   avatar           : "CQY.jpg"
-  bio              : "城市规划，建筑与城市规划学院, 深圳大学"
+  bio              : "城市规划硕士在读，建筑与城市规划学院, 深圳大学"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ABHi0yMAAAAJ&hl=zh-TW&oi=sra"
-  email            :
-  researchgate     : "https://www.researchgate.net/profile/Ye-Hong-4"
+  email            : "464059678@qq.com"
+  #researchgate     : "https://www.researchgate.net/profile/Ye-Hong-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "YeahhhYe"
+  #twitter          : "YeahhhYe"
   vine             :
   weibo            :
   xing             :
