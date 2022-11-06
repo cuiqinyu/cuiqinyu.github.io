@@ -6,7 +6,7 @@ excerpt: 'Keywords: Business District Hierarchy, Agglomeration Effect, Spatial V
 date: 2022-04-15
 venue: 'Proceedings of the 27th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA) 2022'
 paperurl: 'https://doi.org/10.52842/conf.caadria.2022.1.515'
-citation: 'CUI Q, ZHANG S, HUANG Y. Retail Commercial Space Clustering Based on Post-carbon Era Context [C]//.Proceedings of the 27th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA) 2022, 1: 515-524.'
+citation: '[1] CUI Q, ZHANG S, HUANG Y. Retail Commercial Space Clustering Based on Post-carbon Era Context [C]//.Proceedings of the 27th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA) 2022, 1: 515-524.'
 
 ---
 In the post-carbon era, it has become a development and research trend on adjusting commercial locations to help achieve resource conservation by using big data. This paper uses multi-source urban data and machine learning to make reasonable evaluations and adjustments to commercial district planning. Many relevant factors are
