@@ -5,5 +5,5 @@ collection: Workshop
 date: 2020-10-09
 ---
 Instructor: Doreen LIU<br/>
-Members:Raffaela Gorrasi/Stefano Mondozzi/Qinyu Cui/Xinyu Zhang<br/>
+Members: Raffaela Gorrasi/Stefano Mondozzi/Qinyu Cui/Xinyu Zhang<br/>
 Hosted by Shenzhen University and Politecnico di Torino
