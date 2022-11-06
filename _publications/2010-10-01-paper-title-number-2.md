@@ -14,4 +14,4 @@ affecting urban commercial agglomeration, but how to select the appropriate ones
 
 [点击下载文章](http://papers.cumincad.org/data/works/att/caadria2022_325.pdf)
 
-Recommended citation: CUI Q, ZHANG S, HUANG Y. Retail Commercial Space Clustering Based on Post-carbon Era Context [C]//.Proceedings of the 27th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA) 2022, 1: 515-524..
+Recommended citation: [1] CUI Q, ZHANG S, HUANG Y. Retail Commercial Space Clustering Based on Post-carbon Era Context [C]//.Proceedings of the 27th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA) 2022, 1: 515-524..
