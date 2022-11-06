@@ -3,8 +3,8 @@ title: "Retail Commercial Space Clustering Based on Post-carbon Era Context: A C
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Keywords: Business District Hierarchy, Agglomeration Effect, Spatial Variability, Multi-scale Geographically Weighted Regression Model, Machine Learning, Big Data Analysis, SDG 8, SDG 12'
-date: 2010-10-01
-venue: 'The Association for Computer-Aided Architectural Design Research in Asia (CAADRIA) 2022'
+date: 2022-04-15
+venue: 'Proceedings of the 27th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA) 2022'
 paperurl: 'http://papers.cumincad.org/cgi-bin/works/paper/caadria2022_325'
 citation: 'CUI Q, ZHANG S, HUANG Y. Retail Commercial Space Clustering Based on Post-carbon Era Context [C]//.Proceedings of the 27th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA) 2022, 1: 515-524.'
 
