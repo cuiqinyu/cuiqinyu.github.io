@@ -3,14 +3,14 @@ main:
   - title: "研究成果"
     url: /publications/
 
- # - title: "Talks"
- #   url: /talks/    
+  - title: "会议宣讲"
+    url: /talks/    
 
  # - title: "Teaching"
  #   url: /teaching/    
     
-#  - title: "Portfolio"
- #   url: /portfolio/
+  - title: "工作坊"
+    url: /portfolio/
         
  # - title: "Blog Posts"
  #   url: /year-archive/
