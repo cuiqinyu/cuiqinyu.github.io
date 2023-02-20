@@ -13,6 +13,13 @@ redirect_from:
 ======
 * 2015.09 — 2020.06，兰州理工大学，学士
 * 2020.09 — 2023.06，深圳大学，硕士
+* 课程成绩：4/34（本）| 7/48（硕）
+* 
+* 硕士毕业论文题目：基于街景数据和机器学习分析城市安全感知中的性别差异
+
+英语
+======
+* 通过CET-6; 旁听深圳大学博士生英文论文写作课; 发表过英文期刊论文
 
 工作经历
 ======
@@ -20,12 +27,8 @@ redirect_from:
 
 软件技能
 ======
-* ArcGIS(pro)
-* SPSS
-* Python
-* Citespace
-* Adobe
-* Word, Excel ,and Powerpoint
+* 本专业相关软件：ArcGIS (Pro), Adobe, and Office
+* 其他帮助科研的软件：SPSS, Origin, Endnote, Citespace, Python, GitHub, and SQL
 
 荣誉奖项
 ======
