@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "崔秦毓"
+title                    : "关于我"
 title_separator          : "-"
-name                     : &name "崔秦毓"
+name                     : &name "123"
 description              : &description "交通大数据，土木与交通学院, 华南理工大学"
 url                      : https://cuiqinyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
