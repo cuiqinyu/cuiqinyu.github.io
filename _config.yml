@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "崔秦毓"
 title_separator          : "-"
 name                     : &name "崔秦毓"
-description              : &description "城市规划，建筑与城市规划学院, 深圳大学"
+description              : &description "交通大数据，土木与交通学院, 华南理工大学"
 url                      : https://cuiqinyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cuiqinyu/cuiqinyu.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "崔秦毓"
   avatar           : "CQY1-1.jpg"
-  bio              : "城市规划，建筑与城市规划学院, 深圳大学"
-  location         : "Shenzhen, China"
+  bio              : "交通大数据，土木与交通学院, 华南理工大学"
+  location         : "Guangzhou, GD, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ABHi0yMAAAAJ&hl=zh-TW&oi=sra"
