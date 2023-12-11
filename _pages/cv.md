@@ -22,7 +22,7 @@ redirect_from:
 软件技能
 ======
 * 本专业相关软件：ArcGIS (Pro), Adobe, and Office
-* 其他帮助科研的软件：SPSS, Origin, Endnote, Citespace, Python, GitHub, and SQL
+* 其他帮助科研的软件：SPSS, Origin, Endnote (Zotero), Citespace, Python (matplotlib, sklearn, osmnx)
 
 荣誉奖项
 ======
