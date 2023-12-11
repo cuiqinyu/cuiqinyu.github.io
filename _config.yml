@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "关于我"
 title_separator          : "-"
 name                     : &name "关于我"
-description              : &description "面向城市问题的大数据与GIS交叉研究，土木与交通学院, 华南理工大学"
+description              : &description "面向城市/交通问题的大数据与GIS交叉研究，土木与交通学院, 华南理工大学"
 url                      : https://cuiqinyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cuiqinyu/cuiqinyu.github.io"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "崔秦毓"
   avatar           : "bio_photo3.jpg"
-  bio              : "面向城市问题的大数据与GIS交叉研究"
+  bio              : "面向城市/交通问题的大数据与GIS交叉研究"
   location         : "Guangzhou, GD, China"
   employer         :
   pubmed           : 
