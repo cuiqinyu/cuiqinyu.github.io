@@ -21,3 +21,6 @@ redirect_from:
 ## 我的知识社区
 我还创办了[微信公众号（EnvironmentAndPlanningQ）](https://mp.weixin.qq.com/s?__biz=MzkxOTQyMTQ5Ng==&mid=2247483998&idx=1&sn=106316350c1dd61b34a2a4a3c67c6b58&chksm=c1a31509f6d49c1f35bff72fd8c54b29a9d7eb341666f660343f11f9c5029016ebcb664d69f3#rd)进一步分享学习相关的内容，内容板块大致分为三个板块，包括①论文解析（可以理解为个人的论文读后感）、优秀论文推介（和前者类似，但这种一般都是别人发好的，我只负责转载）、讲座分享（转发我看到且认为有趣的讲座，并在讲座后更新文章对讲座内容进行图文分享）、②专业学习科普（分享一些个人在学习过程中觉得基础和重要的内容，温故而知新的同时也可以分享给更多人）。
 其次，[哔哩哔哩（超级大汉堡五山分堡）](https://space.bilibili.com/362069232?spm_id_from=333.337.search-card.all.click)目前已经开通，将会分享一些和其他同学的经验访谈（采访一些本专业但不同方向的同学，希望他们的经历可以帮助到低年级迷茫的同学）。
+
+
+<a href="https://info.flagcounter.com/nw1j"><img src="https://s01.flagcounter.com/map/nw1j/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
