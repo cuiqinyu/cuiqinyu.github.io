@@ -85,13 +85,13 @@ analytics:
 author:
   name             : "崔秦毓"
   avatar           : "bio_photo3.jpg"
-  bio              : "交通大数据"
+  bio              : "交通地理"
   location         : "Guangzhou, GD, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ABHi0yMAAAAJ&hl=zh-TW&oi=sra"
   email            : "464059678@qq.com"
-  #researchgate     : "https://www.researchgate.net/profile/Ye-Hong-4"
+  researchgate     : "https://www.researchgate.net/profile/Qinyu-Cui"
   uri              :
   bitbucket        :
   codepen          :
@@ -116,7 +116,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://space.bilibili.com/362069232/dynamic"
   wikipedia        :
 
 
