@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Keywords: Green justice; Housing price; The age of communities; Community green space; Street view images; Green space accessibility; Shenzhen'
 date: 2022-08-04
-venue: 'International Journal of Environmental Research and Public Health'
+venue: 'International Journal of Environmental Research and Public Health (IJERPH)'
 paperurl: 'https://doi.org/10.3390/ijerph19159611'
 citation: '[1] CUI Q, HUANG Y, YANG G, et al. Measuring Green Exposure Levels in Communities of Different Economic Levels at Different Completion Periods: Through the Lens of Social Equity [J]. International Journal of Environmental Research and Public Health, 2022, 19(15): 9611.'
 ---
