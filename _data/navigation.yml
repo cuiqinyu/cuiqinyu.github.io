@@ -1,21 +1,21 @@
 # main links links
 main:
-  - title: "研究成果"
+  - title: "Researhs/研究成果"
     url: /publications/
 
-  - title: "会议宣讲"
+  - title: "Talks/会议宣讲"
     url: /talks/    
 
  # - title: "Teaching"
  #   url: /teaching/    
     
-  - title: "工作坊"
+  - title: "Workshop/工作坊"
     url: /portfolio/
         
  # - title: "Blog Posts"
  #   url: /year-archive/
     
-  - title: "个人简历"
+  - title: "CV/个人简历"
     url: /cv/
     
  # - title: "Guide"
