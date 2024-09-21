@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hello, I am Qinyu Cui, currently studying at the [Deportment of Civil and Transportation Engineering] of South China University of Technology, majoring in Transportation Engineering. My research interests involve solving urban problems using emerging data and methods. During my PhD, I will focus on "cross-disciplinary research on big data and GIS for urban/transportation issues." I welcome discussions and learning opportunities with peers engaged in related research.
+Hello, I am Qinyu Cui, currently studying at the [Deportment of Civil and Transportation Engineering](http://www2.scut.edu.cn/jtxy/) of South China University of Technology, majoring in Transportation Engineering. My research interests involve solving urban problems using emerging data and methods. During my PhD, I will focus on "cross-disciplinary research on big data and GIS for urban/transportation issues." I welcome discussions and learning opportunities with peers engaged in related research.
 
 您好，我是崔秦毓，目前就读于华南理工大学[土木与交通学院](http://www2.scut.edu.cn/jtxy/)交通运输专业。我的研究兴趣是通过新兴数据和方法解决城市问题，博士阶段将围绕“面向城市/交通问题的大数据与GIS交叉研究”进行研究，欢迎相关研究的同学和我讨论学习。
 
