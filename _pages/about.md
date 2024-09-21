@@ -11,9 +11,10 @@ redirect_from:
 {% include base_path %}
 
 Hello, I am Cui Qinyu, currently studying at the School of Civil Engineering and Transportation of South China University of Technology, majoring in Transportation Engineering. My research interests involve solving urban problems using emerging data and methods. During my PhD, I will focus on "cross-disciplinary research on big data and GIS for urban/transportation issues." I welcome discussions and learning opportunities with peers engaged in related research.
+
 您好，我是崔秦毓，目前就读于华南理工大学[土木与交通学院](http://www2.scut.edu.cn/jtxy/)交通运输专业。我的研究兴趣是通过新兴数据和方法解决城市问题，博士阶段将围绕“面向城市/交通问题的大数据与GIS交叉研究”进行研究，欢迎相关研究的同学和我讨论学习。
 
-## 我的学习背景
+## My background (我的学习背景)
 我本科在兰州理工大学城乡规划专业学习，本科毕业后推免至深圳大学城市规划专业攻读硕士学位，硕士毕业后申请到华南理工大学交通运输专业攻读博士学位。在本科阶段，我主要学习的是规划设计，但在一次社会实践调研竞赛中，我了解到城乡规划专业并不是完全只有设计方向，还包含了融合多个学科知识的研究方向。例如，社会学中的问卷调查、地理学中的ArcGIS操作和分析、经济学中的商业布局和统计学中的回归分析等。在这一过程中我领略到了科研的魅力，喜欢上了这种有逻辑、科学和有趣的内容。而后，以此为启蒙进行了后面的学业。
 
 ## 我的研究经历
