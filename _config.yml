@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me (关于我)"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "About me (关于我)"
 description              : &description "Urban Studies; Transport Geography; Electric Vehicles (EVs)"
