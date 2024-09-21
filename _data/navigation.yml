@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Researhs (研究成果)"
+  - title: "Research Publications (研究成果)"
     url: /publications/
 
-  - title: "Talks (会议宣讲)"
+  - title: "Conference Talks (会议宣讲)"
     url: /talks/    
 
  # - title: "Teaching"
