@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "关于我"
+title                    : "About me (关于我)"
 title_separator          : "-"
-name                     : &name "关于我"
-description              : &description "面向城市/交通问题的大数据与GIS交叉研究，土木与交通学院, 华南理工大学"
+name                     : &name "About me (关于我)"
+description              : &description "Urban Studies; Transport Geography; Electric Vehicles (EVs)"
 url                      : https://cuiqinyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cuiqinyu/cuiqinyu.github.io"
