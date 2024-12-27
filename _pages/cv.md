@@ -32,10 +32,10 @@ redirect_from:
 
 ## Software Skills (软件技能)
 * Industry-related Software: ArcGIS (Pro), Adobe, Office
-* Other Research Tools: SPSS, Origin, Endnote (Zotero), Citespace, **Python (matplotlib, sklearn, osmnx)**
+* Other Research Tools: SPSS, Origin, Endnote (Zotero), Citespace, Python (matplotlib, sklearn, osmnx), GEE
 
 * 本专业相关软件：ArcGIS (Pro), Adobe, Office
-* 其他帮助科研的软件：SPSS, Origin, Endnote (Zotero), Citespace, **Python (matplotlib, sklearn, osmnx)**
+* 其他帮助科研的软件：SPSS, Origin, Endnote (Zotero), Citespace, Python (matplotlib, sklearn, osmnx), GEE
 
 ## Honors and Awards (荣誉奖项)
 * Master: National Scholarship; Freshman Special Scholarship; University-level Outstanding Graduate; University-level Outstanding Thesis (Nomination)
