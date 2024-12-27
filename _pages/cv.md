@@ -19,9 +19,9 @@ redirect_from:
 * 博士研究生, 华南理工大学, 2023.09 — 2027.06（预计）
 
 ## Work Experience (工作经历)
-* Planning Consultant and Data Analysis Intern, **Liangcheng Technology Co., Ltd.**, Shenzhen, 2021.11 — 2022.01
+* Planning Consultant and Data Analysis Intern, Liangcheng Technology Co., Ltd., Shenzhen, 2021.11 — 2022.01
 
-* 规划咨询与数据分析实习生, **深圳量城科技公司**, 2021.11 — 2022.01
+* 规划咨询与数据分析实习生, 深圳量城科技公司, 2021.11 — 2022.01
 
 ## Peer review (同行评审经历)
 * *IET Intelligent Transport Systems.* (1)
