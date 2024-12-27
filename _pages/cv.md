@@ -23,6 +23,15 @@ redirect_from:
 
 * **规划咨询与数据分析实习生**, 深圳量城科技公司, 2021.11 — 2022.01
 
+## Peer review (同行评审经历)
+* **IET Intelligent Transport Systems. (1)
+* **Transportation Research Record. (1)
+* **Land. (1)
+* **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (1)
+* **Journal of Transport Geography. (1)
+
+* **规划咨询与数据分析实习生**, 深圳量城科技公司, 2021.11 — 2022.01
+
 ## Software Skills (软件技能)
 * **Industry-related Software**: ArcGIS (Pro), Adobe, Office
 * **Other Research Tools**: SPSS, Origin, Endnote (Zotero), Citespace, Python (matplotlib, sklearn, osmnx)
