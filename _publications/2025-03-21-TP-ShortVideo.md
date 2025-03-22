@@ -1,7 +1,7 @@
 ---
 title: "How about electric vehicle? Sensing owners’ experiences and attitudes through online short video"
 collection: publications
-permalink: /publication/2025-03-21-TP-ShortVideo.md
+permalink: /publication/2025-03-21-TP-ShortVideo
 excerpt: 'New energy vehicle; TikTok; Nature language processing (NLP); Topic modeling; User satisfaction'
 date: 2025-03-21
 venue: 'Transport Policy'
