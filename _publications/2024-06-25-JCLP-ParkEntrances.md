@@ -2,7 +2,7 @@
 title: "Effective or useless? Assessing the impact of park entrance addition policy on green space services from the 15-min city perspective"
 collection: publications
 permalink: /publication/2024-06-25-JCLP-ParkEntrances
-excerpt: 'Urban parks; Park entrance; Accessibility; 15-Min city; Sustainable development'
+excerpt: 'Keywords: Urban parks; Park entrance; Accessibility; 15-Min city; Sustainable development'
 date: 2024-06-24
 venue: 'Journal of Cleaner Production (JCLP)'
 citation: 'Cui, Q., Tan, L., Ma, H., Wei, X., Yi, S., Zhao, D., Lu, H., Lin, P., 2024. Effective or useless? Assessing the impact of park entrance addition policy on green space services from the 15-minute city perspective. Journal of Cleaner Production 142951. https://doi.org/10.1016/j.jclepro.2024.142951'
