@@ -2,7 +2,7 @@
 title: "An Exploratory Study on Spatial Governance Toward Urban–Rural Integration: Theoretical Analysis with Case Demonstration"
 collection: publications
 permalink: /publication/2024-12-01-Land-CoAuther
-excerpt: 'Urban and rural integration; Territorial spatial governance; Territorial space planning; Rural transformation; China'
+excerpt: 'Keywords: Urban and rural integration; Territorial spatial governance; Territorial space planning; Rural transformation; China'
 date: 2024-12-01
 venue: 'Land'
 citation: 'Tan, L., Cui, Q., Chen, L., Wang, L., 2024. An Exploratory Study on Spatial Governance Toward Urban–Rural Integration: Theoretical Analysis with Case Demonstration. Land 13, 2035. https://doi.org/10.3390/land13122035'
