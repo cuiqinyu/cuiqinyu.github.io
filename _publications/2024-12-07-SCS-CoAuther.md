@@ -2,7 +2,7 @@
 title: "Attribution analysis of urban social resilience differences under rainstorm disaster impact: Insights from interpretable spatial machine learning framework"
 collection: publications
 permalink: /publication/2024-12-07-SCS-CoAuther
-excerpt: 'Urban social resilience; Interpretable spatial machine learning; Geographically weighted random forest; Urban Resilience'
+excerpt: 'Keywords: Urban social resilience; Interpretable spatial machine learning; Geographically weighted random forest; Urban Resilience'
 date: 2024-12-07
 venue: 'Sustainable Cities and Society'
 citation: 'Gu, T., Zhao, H., Yue, L., Guo, J., Cui, Q., Tang, J., Gong, Z., Zhao, P., 2024. Attribution analysis of urban social resilience differences under rainstorm disaster impact: Insights from interpretable spatial machine learning framework. Sustainable Cities and Society 106029. https://doi.org/10.1016/j.scs.2024.106029'
