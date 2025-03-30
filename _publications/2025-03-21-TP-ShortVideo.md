@@ -2,7 +2,7 @@
 title: "How about electric vehicle? Sensing owners’ experiences and attitudes through online short video"
 collection: publications
 permalink: /publication/2025-03-21-TP-ShortVideo
-excerpt: 'New energy vehicle; TikTok; Nature language processing (NLP); Topic modeling; User satisfaction'
+excerpt: 'Keywords: New energy vehicle; TikTok; Nature language processing (NLP); Topic modeling; User satisfaction'
 date: 2025-03-21
 venue: 'Transport Policy'
 citation: 'Cui, Q., Zhang, Y., Ma, H., Zhang, K., Peng, J., Chen, Z., Lin, P., Lin, Z., 2025. How about electric vehicle? Sensing owners’ experiences and attitudes through online short video. Transport Policy 167, 1–15. https://doi.org/10.1016/j.tranpol.2025.03.012'
