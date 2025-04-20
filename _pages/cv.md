@@ -26,6 +26,7 @@ redirect_from:
 ## Peer review (同行评审经历)
 * *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.* 
 * *IET Intelligent Transport Systems.*
+* *ISPRS international journal of geo-information.* 
 * *Journal of Transport Geography.*
 * *Land.*
 * *Societies.*
