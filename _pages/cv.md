@@ -28,8 +28,10 @@ redirect_from:
 * *IET Intelligent Transport Systems.*
 * *ISPRS international journal of geo-information.* 
 * *Journal of Transport Geography.*
+* *Journal of Transport & Health.*
 * *Land.*
 * *Societies.*
+* *Sustainability.*
 * *Transportation Research Record.* 
 
 ## Software Skills (软件技能)
