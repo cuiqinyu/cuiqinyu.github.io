@@ -10,15 +10,15 @@ redirect_from:
 {% include base_path %}
 
 ## Education (教育经历)
-* Bachelor, **Lanzhou University of Technology**, 2015.09 — 2020.06
-* Master, **Shenzhen University**, 2020.09 — 2023.06
+* BS, **Lanzhou University of Technology**, 2015.09 — 2020.06
+* MS, **Shenzhen University**, 2020.09 — 2023.06
 * PhD, **South China University of Technology**, 2023.09 — 2027.06 (expected)
-* Visting, **(coming soon...) University**, 2025.11 — 2026.11 (expected)
+* Visting PhD, **(...) University**, 2025.11 — 2026.11 (expected)
 
 * 本科, **兰州理工大学**, 2015.09 — 2020.06
 * 硕士, **深圳大学**, 2020.09 — 2023.06
 * 博士, **华南理工大学**, 2023.09 — 2027.06（预计）
-* 联培，**（coming soon...）大学**, 2025.11 — 2026.11（预计）
+* 联培，**（...）大学**, 2025.11 — 2026.11（预计）
 
 ## Work Experience (工作经历)
 * Planning Consultant and Data Analysis Intern, Liangcheng Technology Co., Ltd., Shenzhen, 2021.11 — 2022.01
