@@ -45,8 +45,8 @@ redirect_from:
 ## Honors and Awards (荣誉奖项)
 * Bachelor: First Prize in Graduation Design
 * Master: National Scholarship; Freshman Special Scholarship; University-level Outstanding Graduate; University-level Outstanding Thesis (Nomination)
-* PhD: The Special Program for Doctoral Students under the Youth Talent Support Program of the China Association for Science and Technology (CAST)
+* PhD: The Special Program for Doctoral Students under the Youth Talent Support Program of the China Association for Science and Technology (CAST); China Scholarship Council (CSC) scholarship for Visiting Phd Student.
 
 * 本科：毕业设计一等奖
 * 硕士：国家奖学金；新生特等奖学金；校级优秀毕业生；校级优秀毕业论文（提名）
-* 博士：科协青年人才托举工程博士生专项计划
+* 博士：科协青年人才托举工程博士生专项计划；国家留学基金委（CSC）资助出国留学
