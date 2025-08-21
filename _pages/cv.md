@@ -13,12 +13,12 @@ redirect_from:
 * BS, **Lanzhou University of Technology**, 2015.09 — 2020.06
 * MS, **Shenzhen University**, 2020.09 — 2023.06
 * PhD, **South China University of Technology**, 2023.09 — 2027.06 (expected)
-* Visting PhD, **Coming soon...**, 2025.11 — 2026.11 (expected)
+* Visting, **Nagoya University**, 2025.11 — 2026.11 (expected)
 
 * 本科, **兰州理工大学**, 2015.09 — 2020.06
 * 硕士, **深圳大学**, 2020.09 — 2023.06
 * 博士, **华南理工大学**, 2023.09 — 2027.06（预计）
-* 联培，**...大学**, 2025.11 — 2026.11（预计）
+* 联培，**名古屋大学**, 2025.11 — 2026.11（预计）
 
 ## Work Experience (工作经历)
 * Planning Consultant and Data Analysis Intern, Liangcheng Technology Co., Ltd., Shenzhen, 2021.11 — 2022.01
@@ -26,16 +26,19 @@ redirect_from:
 * 规划咨询与数据分析实习生, 深圳量城科技公司, 2021.11 — 2022.01
 
 ## Peer review (同行评审经历)
-* *Buildings.* 
+* *Buildings.*
+* *Discover Cities.*
 * *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.* 
 * *IET Intelligent Transport Systems.*
-* *ISPRS international journal of geo-information.* 
+* *International Journal of the Sociology of Leisure.*
+* *ISPRS International Journal of Geo-Information.* 
 * *Journal of Transport Geography.*
 * *Journal of Transport & Health.*
 * *Land.*
 * *Societies.*
 * *Sustainability.*
-* *Transportation Research Record.* 
+* *Transportation Research Record.*
+* 
 
 ## Software Skills (软件技能)
 * Industry-related Software: ArcGIS (Pro), Adobe, Office
