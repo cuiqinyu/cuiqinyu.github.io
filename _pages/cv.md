@@ -38,7 +38,6 @@ redirect_from:
 * *Societies.*
 * *Sustainability.*
 * *Transportation Research Record.*
-* 
 
 ## Software Skills (软件技能)
 * Industry-related Software: ArcGIS (Pro), Adobe, Office
