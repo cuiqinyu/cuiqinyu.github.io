@@ -1,5 +1,5 @@
 ---
-title: "Women-Oriented Evaluation of Perceived Safety of Walking Routes between Home and Mass Transit: A Case Study and Methodology Test in Guangzhou"
+title: "[First-author] Women-Oriented Evaluation of Perceived Safety of Walking Routes between Home and Mass Transit: A Case Study and Methodology Test in Guangzhou"
 collection: publications
 permalink: /publication/2023-03-09-BUILDINGS-SVI
 excerpt: 'Keywords: Perceived safety; Women; Urban science; Mobile phone data; Street view'
