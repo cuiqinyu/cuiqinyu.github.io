@@ -1,5 +1,5 @@
 ---
-title: "[Co-author]Perceived distance to greenery affects psychological restoration"
+title: "[Co-author] Perceived distance to greenery affects psychological restoration"
 collection: publications
 permalink: /publication/2025-07-28-EPB-CoAuther
 excerpt: 'Keywords: Psychological restoration; Urban greenery; Greenery distance; XGBoost; Causal Forest; Street view images'
