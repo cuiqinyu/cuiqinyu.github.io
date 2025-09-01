@@ -1,5 +1,5 @@
 ---
-title: "Effective or useless? Assessing the impact of park entrance addition policy on green space services from the 15-min city perspective"
+title: "[First-author] Effective or useless? Assessing the impact of park entrance addition policy on green space services from the 15-min city perspective"
 collection: publications
 permalink: /publication/2024-06-25-JCLP-ParkEntrances
 excerpt: 'Keywords: Urban parks; Park entrance; Accessibility; 15-Min city; Sustainable development'
