@@ -1,5 +1,5 @@
 ---
-title: "[co-author]Attribution analysis of urban social resilience differences under rainstorm disaster impact: Insights from interpretable spatial machine learning framework"
+title: "[Co-author]Attribution analysis of urban social resilience differences under rainstorm disaster impact: Insights from interpretable spatial machine learning framework"
 collection: publications
 permalink: /publication/2024-12-07-SCS-CoAuther
 excerpt: 'Keywords: Urban social resilience; Interpretable spatial machine learning; Geographically weighted random forest; Urban Resilience'
