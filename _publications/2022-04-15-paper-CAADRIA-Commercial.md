@@ -1,5 +1,5 @@
 ---
-title: "Retail Commercial Space Clustering Based on Post-carbon Era Context: A Case Study of Shanghai"
+title: "[First-author] Retail Commercial Space Clustering Based on Post-carbon Era Context: A Case Study of Shanghai"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Keywords: Business district hierarchy; Agglomeration effect; Spatial variability; Multi-scale geographically weighted regression model; Machine learning; Big data analysis; SDG 8; SDG 12'
