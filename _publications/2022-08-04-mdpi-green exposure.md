@@ -1,5 +1,5 @@
 ---
-title: "Measuring Green Exposure Levels in Communities of Different Economic Levels at Different Completion Periods: Through the Lens of Social Equity"
+title: "[First-author] Measuring Green Exposure Levels in Communities of Different Economic Levels at Different Completion Periods: Through the Lens of Social Equity"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Keywords: Green justice; Housing price; The age of communities; Community green space; Street view images; Green space accessibility; Shenzhen'
