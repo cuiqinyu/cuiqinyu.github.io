@@ -1,5 +1,5 @@
 ---
-title: "An Exploratory Study on Spatial Governance Toward Urban–Rural Integration: Theoretical Analysis with Case Demonstration"
+title: "[Co-author] An Exploratory Study on Spatial Governance Toward Urban–Rural Integration: Theoretical Analysis with Case Demonstration"
 collection: publications
 permalink: /publication/2024-12-01-Land-CoAuther
 excerpt: 'Keywords: Urban and rural integration; Territorial spatial governance; Territorial space planning; Rural transformation; China'
