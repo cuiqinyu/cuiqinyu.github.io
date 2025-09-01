@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-05-16-TRD-EVWeather
 excerpt: 'Keywords: Electric vehicles; Intercity travel; Weather impacts; Vehicle type; Traffic volume'
 date: 2025-05-16
-venue: 'Transportation Research Part D: Transport and Environment'
+venue: '**Transportation Research Part D: Transport and Environment**'
 citation: 'Cui, Q., Huang, C., Zhang, K., Gao, C., Gu, T., Ke, E., Lin, P., 2025. Weather effects on highway travel volume: Electric vs. Fuel vehicles. Transportation Research Part D: Transport and Environment 145, 104805. https://doi.org/10.1016/j.trd.2025.104805'
 ---
 Abstract: This study investigates weather impacts on the traffic volume of electric vehicles (EVs) and internal combustion engine vehicles (ICEVs) during highway travel, addressing a crucial gap in understanding EV performance for long-distance trips. Analyzing one-year daily traffic data from Guangdong, China, using Random Forest and SHapley Additive exPlanations (SHAP) methods, the research reveals that EVs are more weather-sensitive than ICEVs for trips over 200 km. But for trips under 200 km, their sensitivity levels are nearly identical. Key weather factors, excluding wind speed, similarly affect both vehicle types, with origin–destination (O-D) weather differences exerting greater influence than origin conditions alone. These findings suggest EV highway travel behavior is largely comparable to ICEVs under various weather conditions, potentially alleviating consumer concerns. This study also highlights the value of providing destination-specific weather information and the potential of intelligent vehicle systems to support long-distance EV travel.
