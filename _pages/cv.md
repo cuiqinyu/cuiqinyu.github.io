@@ -27,6 +27,7 @@ redirect_from:
 
 ## Peer review (同行评审经历)
 * *Buildings.*
+* *Computational Urban Science.*
 * *Discover Cities.*
 * *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.* 
 * *IET Intelligent Transport Systems.*
