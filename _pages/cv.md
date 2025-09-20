@@ -49,7 +49,7 @@ redirect_from:
 ## Honors and Awards (荣誉奖项)
 * Bachelor: First Prize in Graduation Design
 * Master: National Scholarship; Freshman Special Scholarship; University-level Outstanding Graduate; University-level Outstanding Thesis (Nomination)
-* PhD: The Special Funding for Phd Students under the China Association for Science and Technology (CAST); China Scholarship Council (CSC) scholarship for Visiting Phd Student.
+* PhD: The Special Funding for Phd Students under the China Association for Science and Technology (CAST); China Scholarship Council (CSC) scholarship for Visiting PhD Student.
 
 * 本科：毕业设计一等奖
 * 硕士：国家奖学金；新生特等奖学金；校级优秀毕业生；校级优秀毕业论文（提名）
