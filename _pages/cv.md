@@ -26,6 +26,7 @@ redirect_from:
 * 规划咨询与数据分析实习生, 深圳量城科技公司, 2021.11 — 2022.01
 
 ## Peer review (同行评审经历)
+* *BMC Public Health.*
 * *Buildings.*
 * *Computational Urban Science.*
 * *Discover Cities.*
@@ -39,6 +40,7 @@ redirect_from:
 * *Societies.*
 * *Sustainability.*
 * *Transportation Research Record.*
+* *Urban Forestry & Urban Greening.*
 
 ## Software Skills (软件技能)
 * Industry-related Software: ArcGIS (Pro), Adobe, Office
