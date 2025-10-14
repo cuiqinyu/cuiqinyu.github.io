@@ -33,7 +33,8 @@ redirect_from:
 * *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.* 
 * *IET Intelligent Transport Systems.*
 * *International Journal of the Sociology of Leisure.*
-* *ISPRS International Journal of Geo-Information.* 
+* *ISPRS International Journal of Geo-Information.*
+* *Journal of Asian Architecture and Building Engineering.*
 * *Journal of Transport Geography.*
 * *Journal of Transport & Health.*
 * *Land.*
