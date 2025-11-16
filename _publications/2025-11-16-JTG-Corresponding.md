@@ -1,5 +1,5 @@
 ---
-title: "[Corresponding author] Revisiting electric vehicle charging station accessibility: A home and workplace dual-scenario perspective"
+title: "[Corresponding-author] Revisiting electric vehicle charging station accessibility: A home and workplace dual-scenario perspective"
 collection: publications
 permalink: /publication/2025-11-16-JTG-Corresponding
 excerpt: 'Keywords: EV charger; Accessibility; G2SFCA; Equity; Home; Workplace'
