@@ -26,6 +26,7 @@ redirect_from:
 * 规划咨询与数据分析实习生, 深圳量城科技公司, 2021.11 — 2022.01
 
 ## Peer review (同行评审经历)
+* *Applied Geography.*
 * *BMC Public Health.*
 * *Buildings.*
 * *Computational Urban Science.*
