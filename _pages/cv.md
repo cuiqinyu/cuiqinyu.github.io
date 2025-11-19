@@ -31,6 +31,7 @@ redirect_from:
 * *Buildings.*
 * *Computational Urban Science.*
 * *Discover Cities.*
+* *Frontiers in Public Health.*
 * *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.* 
 * *IET Intelligent Transport Systems.*
 * *International Journal of the Sociology of Leisure.*
