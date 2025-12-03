@@ -13,7 +13,7 @@ redirect_from:
 * BS, **Lanzhou University of Technology**, 2015.09 — 2020.06
 * MS, **Shenzhen University**, 2020.09 — 2023.06
 * PhD, **South China University of Technology**, 2023.09 — 2027.06 (expected)
-* Visting, **...*, 2025.11 — 2026.11 (expected)
+* Visting, *...*, 2025.11 — 2026.11 (expected)
 
 * 本科, **兰州理工大学**, 2015.09 — 2020.06
 * 硕士, **深圳大学**, 2020.09 — 2023.06
