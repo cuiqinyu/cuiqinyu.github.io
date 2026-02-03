@@ -18,7 +18,7 @@ redirect_from:
 * 本科, **兰州理工大学**, 2015.09 — 2020.06
 * 硕士, **深圳大学**, 2020.09 — 2023.06
 * 博士, **华南理工大学**, 2023.09 — 2027.06（预计）
-* 联培, **根特大学**, 2026.01 — 2027.01（预计）
+* 联培, **根特大学**, 2026.02 — 2027.02（预计）
 
 ## Work Experience (工作经历)
 * Planning Consultant and Data Analysis Intern, Liangcheng Technology Co., Ltd., Shenzhen, 2021.11 — 2022.01
@@ -29,6 +29,8 @@ redirect_from:
 * *Applied Geography.*
 * *BMC Public Health.*
 * *Buildings.*
+* *City and Environment Interactions.*
+* *Climate Risk Management.*
 * *Computational Urban Science.*
 * *Discover Cities.*
 * *Frontiers in Public Health.*
@@ -40,6 +42,7 @@ redirect_from:
 * *Journal of Transport Geography.*
 * *Journal of Transport & Health.*
 * *Land.*
+* *Research in Transportation Business & Management.*
 * *Societies.*
 * *Sustainability.*
 * *Transportation Research Record.*
