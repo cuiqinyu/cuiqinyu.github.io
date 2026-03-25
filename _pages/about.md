@@ -16,11 +16,11 @@ Hello, I am Qinyu Cui, currently studying at the [Deportment of Civil and Transp
 
 ## BIG News (重要事情记录)
 
-- **2026.02**: I received my first [Highly Cited Paper](https://doi.org/10.1016/j.tranpol.2025.03.012)🔥
+- **2026.02**: I received my first [Highly Cited Paper](https://doi.org/10.1016/j.tranpol.2025.03.012) 🔥
 - **2025.10**: I published in a top journal for the first time as the corresponding author, with the first author being an undergraduate junior whom I supervised  
 - **2025.06**: I was awarded the CSC national government-sponsored study abroad scholarship  
 - **2025.01**: I was selected for the China Association for Science and Technology Doctoral Student Support Programme
-- **2024.12**：I became a reviewer for a top journal for the first time, and it is also my favourite journal🕶
+- **2024.12**：I became a reviewer for a top journal for the first time, and it is also my favourite journal 🕶
 - **2023.11**: I published my first paper in a top journal  
 - **2023.06**: I was admitted by my PhD supervisor (Peiqun Lin) through a supplementary admission process to South China University of Technology, and my major changed from urban planning to transportation engineering  (lucky again)   
 - **2019.09**: I was granted recommendation-based admission for a master’s degree and chose to continue my studies in urban planning at Shenzhen University after graduating from Lanzhou University of Technology (so lucky)  
