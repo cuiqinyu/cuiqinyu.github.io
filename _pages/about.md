@@ -14,6 +14,15 @@ Hello, I am Qinyu Cui, currently studying at the [Deportment of Civil and Transp
 
 您好，我是崔秦毓，目前就读于华南理工大学[土木与交通学院](http://www2.scut.edu.cn/jtxy/)交通运输专业。我的研究兴趣是通过新兴数据和方法解决城市问题，博士阶段将围绕“面向城市/交通问题的大数据与GIS交叉研究”进行研究，欢迎相关研究的同学和我讨论学习。
 
+## BIG News (重要事情记录)
+2026.02：我收获了第一篇属于自己的高被引论文
+2025.10：我首次以通信作者身份在Top期刊发文，第一作者是我指导的本科师弟
+2025.06：我获得了CSC国家公派留学的资格
+2025.01：我入选了科协博士生托举计划
+2023.11: 我发表了第一篇Top期刊的论文
+2023.06: 我被我的博士生导师（林培群）补录进入华南理工大学，专业从城市规划变为交通运输
+2019.09: 我获得了免试攻读硕士的机会，选择从兰州理工大学前往深圳大学继续学习城市规划专业
+
 ## My background (我的学习背景)
 
 I completed my undergraduate studies in Urban and Rural Planning at Lanzhou University of Technology. After graduation, I was recommended for admission to Shenzhen University to pursue a master degree in Urban Studies. Following my master's graduation, I applied to the South China University of Technology for a PhD in Transportation Engineering. During my undergraduate studies, I primarily focused on planning and design. However, a social practice survey competition introduced me to the broader scope of urban and rural planning, which integrates knowledge from various disciplines such as sociology, geography (with GIS operations and analysis), economics (commercial layout), and statistics (regression analysis). This experience sparked my interest in research, and I have been passionate about it ever since.
