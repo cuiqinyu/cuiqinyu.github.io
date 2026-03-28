@@ -39,6 +39,7 @@ redirect_from:
 * *International Journal of the Sociology of Leisure.*
 * *ISPRS International Journal of Geo-Information.*
 * *Journal of Asian Architecture and Building Engineering.*
+* *Journal of Cleaner Production.*
 * *Journal of Transport Geography.*
 * *Journal of Transport & Health.*
 * *Land.*
