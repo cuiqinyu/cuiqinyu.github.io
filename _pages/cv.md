@@ -33,6 +33,7 @@ redirect_from:
 * *Climate Risk Management.*
 * *Computational Urban Science.*
 * *Discover Cities.*
+* *Environment and Planning B: Urban Analytics and City Science.*
 * *Frontiers in Communication.*
 * *Frontiers in Public Health.*
 * *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.* 
