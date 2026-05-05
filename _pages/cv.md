@@ -29,6 +29,7 @@ redirect_from:
 * *Applied Geography.*
 * *BMC Public Health.*
 * *Buildings.*
+* *Cities.*
 * *City and Environment Interactions.*
 * *Climate Risk Management.*
 * *Computational Urban Science.*
