@@ -37,6 +37,7 @@ redirect_from:
 * *Environment and Planning B: Urban Analytics and City Science.*
 * *Frontiers in Communication.*
 * *Frontiers In Forests And Global Change.*
+* *Frontiers in Psychology.*
 * *Frontiers in Public Health.*
 * *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.* 
 * *IET Intelligent Transport Systems.*
@@ -45,12 +46,14 @@ redirect_from:
 * *ISPRS International Journal of Geo-Information.*
 * *Journal of Asian Architecture and Building Engineering.*
 * *Journal of Cleaner Production.*
+* *Journal of Public Transportation.*
 * *Journal of Transport Geography.*
 * *Journal of Transport & Health.*
 * *Land.*
 * *Research in Transportation Business & Management.*
 * *Societies.*
 * *Sustainability.*
+* *Sustainable Cities and Society.*
 * *Transportation Research Record.*
 * *Transport Policy.*
 * *Urban Forestry & Urban Greening.*
