@@ -39,8 +39,8 @@ redirect_from:
 * *Frontiers In Forests And Global Change.*
 * *Frontiers in Psychology.*
 * *Frontiers in Public Health.*
+* *Geography and Sustainability.*
 * *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.* 
-* *IET Intelligent Transport Systems.*
 * *International Journal of Health Geographics.*
 * *International Journal of the Sociology of Leisure.*
 * *ISPRS International Journal of Geo-Information.*
@@ -54,6 +54,7 @@ redirect_from:
 * *Societies.*
 * *Sustainability.*
 * *Sustainable Cities and Society.*
+* *Traffic Injury Prevention.*
 * *Transportation Research Record.*
 * *Transport Policy.*
 * *Urban Forestry & Urban Greening.*
