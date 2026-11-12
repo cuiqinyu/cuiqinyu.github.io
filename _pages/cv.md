@@ -40,7 +40,8 @@ redirect_from:
 * *Frontiers in Psychology.*
 * *Frontiers in Public Health.*
 * *Geography and Sustainability.*
-* *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.* 
+* *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.*
+* *International Journal of Disaster Risk Reduction.*
 * *International Journal of Health Geographics.*
 * *International Journal of the Sociology of Leisure.*
 * *ISPRS International Journal of Geo-Information.*
